@@ -28,30 +28,30 @@ sections: ["tech_ai", "tech_ai_companies", "tech_google", "finance_markets", "fi
 ---
 
 ## 🔥 今日重點 Top Highlights
-*   **市場劇烈震盪，AI硬體股出現極端賣壓**：S&P 500重挫1.78%，AI伺服器大廠**Super Micro (SMCI) 單日暴跌32.36%**，需密切關注後續波動。台灣AI股則表現分歧，世芯-KY大漲4.81%。（[📈 Markets](#-markets-overview) / [📊 Watchlist](#-watchlist)）
-*   **特斯拉與SpaceX聯手進軍先進晶片製造**：Elon Musk宣布將在奧斯汀合作建造「先進晶片工廠」，標誌著特斯拉在晶片設計與製造領域的戰略性深入。（[🤖 AI 公司動態](#-ai-公司動態-openai-anthropic-tesla)）
-*   **Google Gemini開發工具全面升級**：Gemini CLI新增「Plan Mode」安全分析程式碼；Code Assist加入「Finish Changes」功能；Sheets中的Gemini達到SOTA效能，大幅提升開發與數據分析效率。（[🔵 Google 動態](#-google-動態)）
-*   **中東緊張局勢顯著升級**：以色列計劃擴大對黎巴嫩真主黨的地面與空中攻擊，伊朗飛彈襲擊造成以色列核設施附近180人受傷，區域衝突風險加劇。（[🌍 World News](#-world-news)）
-*   **澳洲移民新法規釐清，非全面禁令**：近期引起討論的新法規（s84B）是針對特定個案的「抵達控制」工具，**並非對所有臨時簽證持有者的普遍旅行限制**，無需過度恐慌。（[🇦🇺 Australia Immigration](#-australia-immigration)）
+*   **市場劇烈震盪，AI硬體股出現極端走勢**：Super Micro Computer (SMCI) 單日暴跌 **32.36%**，顯示市場情緒波動劇烈。與此同時，台股 AI 設計股如世芯-KY (3661) 大漲 4.81%，呈現分歧走勢。 [📈 詳情](#-markets-overview) | [📊 觀察清單](#-watchlist)
+*   **特斯拉與SpaceX聯手進軍晶片製造**：Elon Musk 宣布將在奧斯汀合作建造「先進晶片工廠」，標誌著特斯拉在垂直整合與半導體自主性上的重大戰略佈局。 [🤖 公司動態](#-ai-公司動態-openai-anthropic-tesla)
+*   **中東緊張局勢顯著升級**：以色列宣布計劃擴大對黎巴嫩真主黨的地面與空中攻擊，伊朗發射的飛彈在以色列核設施附近造成180人受傷，區域衝突風險升高。 [🌍 國際新聞](#-world-news)
+*   **Google Gemini 開發者工具全面升級**：Gemini CLI 新增「Plan Mode」安全分析模式，Code Assist 加入「Finish Changes」與「Outlines」功能，大幅提升AI輔助編程效率。 [🔵 Google動態](#-google-動態)
+*   **澳洲移民政策出現新的管控工具**：政府新增「抵達控制決定」權力，可暫停特定境外人士的簽證，但並非針對所有臨時簽證持有者的普遍禁令，需留意官方解讀。 [🇦🇺 澳洲移民](#-australia-immigration)
 
 ---
-- 💻 Tech: Rust社群AI觀點、新多語言嵌入模型F2LLM-v2、高效能開源MoE模型Nemotron-Cascade 2發布。
-- 🤖 AI 公司動態: 特斯拉宣布與SpaceX合作建造先進晶片工廠，進行Terafab製造戰略押注。
-- 🔵 Google 動態: Gemini系列開發工具（CLI、Code Assist、Sheets）推出多項提升效率與安全性的新功能。
-- 📈 Markets: 全球風險情緒轉差，S&P 500重挫1.78%，台股小跌0.43%，SMCI暴跌32%成焦點。
-- 🏠 台灣房市: 租賃市場活躍與高價住宅持穩的雙軌態勢，建議自住關注捷運周邊與租補條件。
-- 📊 Watchlist: AI股普遍下跌，ARM、世芯-KY逆勢上漲，SMCI出現極端賣壓。
-- 🌍 World News: 中東緊張局勢升級，法國地方選舉左派守住大城，古巴再遇全國大停電。
-- 📷 Camera Deals: 提供台灣相機購買管道（電商、光華、日代、二手）與三月促銷技巧。
-- 🤿 Dive Gear Deals: 三月為潛季準備期，建議關注實體店家優惠、線上品牌折扣與二手社團。
+- 💻 Tech: Rust社群AI觀點、新多語言嵌入模型F2LLM-v2、視覺語言模型(VLM)的「選擇性視盲」研究。
+- 🤖 AI 公司動態: 特斯拉宣布與SpaceX合作建先進晶片廠，投資「Terafab」製造技術。
+- 🔵 Google 動態: Gemini CLI、Code Assist、Sheets 及個人智慧功能全面更新。
+- 📈 Markets: 美股S&P 500重挫1.78%，台股小跌0.43%，SMCI暴跌32%成焦點。
+- 🏠 台灣房市: 租賃市場活躍，呈現「租賃熱、高價穩」的雙軌態勢。
+- 📊 Watchlist: AI股普遍下跌，ARM、世芯-KY逆勢上漲，SMCI單日暴跌逾32%。
+- 🌍 World News: 中東緊張加劇，法國地方選舉左派守住大城，古巴再遇全國大停電。
+- 📷 Camera Deals: 提供台灣相機購買管道與三月優惠技巧，分享「前景框架」構圖法。
+- 🤿 Dive Gear Deals: 提供潛水裝備購買管道與三月旺季前準備建議，分享調節器保養技巧。
 - ✈️ Flight Tips: 提供各熱門目的地（日本、泰國、歐美澳埃）的訂票時機與航空公司策略。
-- 🗺️ Travel Deals: 日本旅行體驗、巴黎緊湊行程規劃、歐洲免簽與預算建議。
-- 📚 Learning — Finance: 介紹企業價值（EV）與EV/EBITDA估值比率的概念與應用。
-- 🧩 Leetcode Blind 100: 回溯法經典題「電話號碼的字母組合」解法與要點。
-- 📷 Learning — Photography: 影片拍攝中B-Roll的策略與拍攝比例（5:1法則）教學。
-- 📚 Learning — Tech: 比較訊息佇列 Kafka（高吞吐日誌）與 RabbitMQ（靈活路由）的使用場景。
-- 🎬 Learning — YouTube: 使用Sony A7C拍出電影感Vlog的實用技巧（設定、慢動作、光線、聲音）。
-- 🇦🇺 Australia Immigration: 釐清新移民法規為針對性工具，分享技術簽證成功案例與技能評估重要性。
+- 🗺️ Travel Deals: 分享日本、巴黎、歐洲旅行實用建議，強調避開夏季旺季。
+- 📚 Learning — Finance: 介紹企業價值(EV)與EV/EBITDA估值指標。
+- 🧩 Leetcode Blind 100: 回溯法經典題「電話號碼的字母組合」解法與技巧。
+- 📷 Learning — Photography: 影片拍攝中B-Roll的策略與拍攝比例規劃。
+- 📚 Learning — Tech: 比較訊息佇列 Kafka 與 RabbitMQ 的使用場景。
+- 🎬 Learning — YouTube: 分享使用 Sony A7C 拍出電影感 Vlog 的實用技巧。
+- 🇦🇺 Australia Immigration: 釐清新簽證管控法律，分享技術移民成功案例與評估要點。
 
 ---
 
